@@ -25,7 +25,7 @@ const Footer = () => {
                 <span className="text-white font-bold text-xl">E</span>
               </div>
               <div className="text-2xl font-bold gradient-text-blue">
-                EXBIT
+                ICOIN
               </div>
             </div>
             <p className="text-slate-600 mb-4 max-w-md">
@@ -77,7 +77,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-slate-200">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-slate-600 text-sm">
-              &copy; 2025 Exbit. All rights reserved. Built with Next.js, Solidity & The Graph.
+              &copy; 2025 ICOIN. All rights reserved. Built with Next.js, Solidity & The Graph.
             </div>
             <div className="flex items-center gap-6 text-sm text-slate-500">
               <div className="flex items-center gap-2">

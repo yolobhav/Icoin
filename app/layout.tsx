@@ -5,11 +5,11 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Exbit - Next-Gen Staking & Rewards Platform',
+  title: 'ICOIN - Next-Gen Staking & Rewards Platform',
   description: 'Maximize your crypto earnings with up to 0.60% daily ROI, multi-level referral rewards, and a comprehensive ranking system designed for sustainable growth.',
   keywords: 'crypto, staking, DeFi, blockchain, rewards, ROI, referral',
   openGraph: {
-    title: 'Exbit - Next-Gen Staking & Rewards Platform',
+    title: 'ICOIN - Next-Gen Staking & Rewards Platform',
     description: 'Maximize your crypto earnings with up to 0.60% daily ROI',
     type: 'website',
   },

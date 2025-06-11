@@ -39,7 +39,7 @@ const Header = () => {
               <span className="text-white font-bold text-xl">E</span>
             </div>
             <div className="text-2xl font-bold gradient-text-blue">
-              EXBIT
+              ICOIN
             </div>
           </div>
 
